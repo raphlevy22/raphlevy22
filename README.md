@@ -1,5 +1,5 @@
 - 👋 Hi I’m Raphael LEVY currently working at Sovalue as an Senior Finance Associate
-- 👀 I’m passionate about leveraging data and AI for business purposes and have a key interest in Financial Tech and Sports Analytics topics.
+- 👀 I’m passionate about leveraging data and AI and have a key interest in Financial Tech and Sports Analytics topics.
 - 📫 How to reach me: Email me at raphael.levy@edu.escp.eu
 
 <!---
